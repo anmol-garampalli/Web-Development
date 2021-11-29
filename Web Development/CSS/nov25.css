@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+marquee {
+    font-weight: bold;
+    background-color: rgb(255, 120, 120) color;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(255, 124, 1)
+}
+
+nav {
+    list-style-type: square;
+    color: rgb(0, 0, 0);
+    font-style: bold;
+}
+
+p {
+    color: black;
+}
+
+href {
+    color: black;
+    font-size: 20px
+}
